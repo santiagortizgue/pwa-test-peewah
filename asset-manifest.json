@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pwa-test-peeewah/static/css/main.da1f512f.chunk.css",
-    "main.js": "/pwa-test-peeewah/static/js/main.8f4bc17e.chunk.js",
-    "main.js.map": "/pwa-test-peeewah/static/js/main.8f4bc17e.chunk.js.map",
-    "runtime-main.js": "/pwa-test-peeewah/static/js/runtime-main.a6aa6740.js",
-    "runtime-main.js.map": "/pwa-test-peeewah/static/js/runtime-main.a6aa6740.js.map",
-    "static/js/2.8cd9c3cd.chunk.js": "/pwa-test-peeewah/static/js/2.8cd9c3cd.chunk.js",
-    "static/js/2.8cd9c3cd.chunk.js.map": "/pwa-test-peeewah/static/js/2.8cd9c3cd.chunk.js.map",
-    "index.html": "/pwa-test-peeewah/index.html",
-    "precache-manifest.f2c0c558f6b1d3e9fa7fd5470a3f225b.js": "/pwa-test-peeewah/precache-manifest.f2c0c558f6b1d3e9fa7fd5470a3f225b.js",
-    "service-worker.js": "/pwa-test-peeewah/service-worker.js",
-    "static/css/main.da1f512f.chunk.css.map": "/pwa-test-peeewah/static/css/main.da1f512f.chunk.css.map",
-    "static/js/2.8cd9c3cd.chunk.js.LICENSE": "/pwa-test-peeewah/static/js/2.8cd9c3cd.chunk.js.LICENSE",
-    "static/media/Peewah.png": "/pwa-test-peeewah/static/media/Peewah.965e8697.png"
+    "main.css": "/pwa-test-peewah/static/css/main.da1f512f.chunk.css",
+    "main.js": "/pwa-test-peewah/static/js/main.a7e38e76.chunk.js",
+    "main.js.map": "/pwa-test-peewah/static/js/main.a7e38e76.chunk.js.map",
+    "runtime-main.js": "/pwa-test-peewah/static/js/runtime-main.ae49216e.js",
+    "runtime-main.js.map": "/pwa-test-peewah/static/js/runtime-main.ae49216e.js.map",
+    "static/js/2.8cd9c3cd.chunk.js": "/pwa-test-peewah/static/js/2.8cd9c3cd.chunk.js",
+    "static/js/2.8cd9c3cd.chunk.js.map": "/pwa-test-peewah/static/js/2.8cd9c3cd.chunk.js.map",
+    "index.html": "/pwa-test-peewah/index.html",
+    "precache-manifest.9231580a4f95e07d395662222922415d.js": "/pwa-test-peewah/precache-manifest.9231580a4f95e07d395662222922415d.js",
+    "service-worker.js": "/pwa-test-peewah/service-worker.js",
+    "static/css/main.da1f512f.chunk.css.map": "/pwa-test-peewah/static/css/main.da1f512f.chunk.css.map",
+    "static/js/2.8cd9c3cd.chunk.js.LICENSE": "/pwa-test-peewah/static/js/2.8cd9c3cd.chunk.js.LICENSE",
+    "static/media/Peewah.png": "/pwa-test-peewah/static/media/Peewah.965e8697.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6aa6740.js",
+    "static/js/runtime-main.ae49216e.js",
     "static/js/2.8cd9c3cd.chunk.js",
     "static/css/main.da1f512f.chunk.css",
-    "static/js/main.8f4bc17e.chunk.js"
+    "static/js/main.a7e38e76.chunk.js"
   ]
 }
