@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pwa-test-peewah/static/css/main.de6a543d.chunk.css",
+    "main.css": "/pwa-test-peewah/static/css/main.7f9a891c.chunk.css",
     "main.js": "/pwa-test-peewah/static/js/main.a7e38e76.chunk.js",
     "main.js.map": "/pwa-test-peewah/static/js/main.a7e38e76.chunk.js.map",
     "runtime-main.js": "/pwa-test-peewah/static/js/runtime-main.ae49216e.js",
@@ -8,16 +8,16 @@
     "static/js/2.8cd9c3cd.chunk.js": "/pwa-test-peewah/static/js/2.8cd9c3cd.chunk.js",
     "static/js/2.8cd9c3cd.chunk.js.map": "/pwa-test-peewah/static/js/2.8cd9c3cd.chunk.js.map",
     "index.html": "/pwa-test-peewah/index.html",
-    "precache-manifest.3fc8a77294c6a066e8fcf17f6402a279.js": "/pwa-test-peewah/precache-manifest.3fc8a77294c6a066e8fcf17f6402a279.js",
+    "precache-manifest.a99f9a435874e2ccc74f0554fe0ecf78.js": "/pwa-test-peewah/precache-manifest.a99f9a435874e2ccc74f0554fe0ecf78.js",
     "service-worker.js": "/pwa-test-peewah/service-worker.js",
-    "static/css/main.de6a543d.chunk.css.map": "/pwa-test-peewah/static/css/main.de6a543d.chunk.css.map",
+    "static/css/main.7f9a891c.chunk.css.map": "/pwa-test-peewah/static/css/main.7f9a891c.chunk.css.map",
     "static/js/2.8cd9c3cd.chunk.js.LICENSE": "/pwa-test-peewah/static/js/2.8cd9c3cd.chunk.js.LICENSE",
     "static/media/Peewah.png": "/pwa-test-peewah/static/media/Peewah.965e8697.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ae49216e.js",
     "static/js/2.8cd9c3cd.chunk.js",
-    "static/css/main.de6a543d.chunk.css",
+    "static/css/main.7f9a891c.chunk.css",
     "static/js/main.a7e38e76.chunk.js"
   ]
 }
